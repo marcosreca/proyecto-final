@@ -1,3 +1,5 @@
+
+/*nav*/
 img {
     width: 7rem;
 }
@@ -5,4 +7,8 @@ img {
 .navbar{
     background: rgb(248,255,158);
     background: linear-gradient(0deg, rgba(248,255,158,1) 0%, rgba(242,71,218,1) 100%);
+}
+/*footer*/
+.bg-dark img{
+    width: 0.8rem
 }
