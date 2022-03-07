@@ -1,6 +1,43 @@
 body{
     background-image:url("/imagenes/fondoindex.jpg");
 }
+
+/*contenido index*/
+div.noticia {
+    width: 70%;
+    margin: 20px auto;
+    background-color: #8a449994;
+    border-radius: 1.5rem;
+    color: #fff;
+    padding: 15px;
+  }
+  
+  div.noticia img.izquierda {
+    float: left;
+    margin-right: 15px;
+  }
+  
+  div.noticia img.derecha {
+    float: right;
+    margin-left: 15px;
+    width: 15rem;
+  }
+  
+  div.reset {
+    clear: both;
+  }
+ .tarjeta__video1{
+    /*  width:20rem;
+      height: 20rem;*/
+  }
+  aside.aside-3 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+h2.tarjeta__h3 {
+    text-decoration: underline;
+}
 /*nav*/
 img {
     width: 7rem;
