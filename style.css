@@ -1,4 +1,6 @@
-
+body{
+    background-image:url("/imagenes/fondoindex.jpg");
+}
 /*nav*/
 img {
     width: 7rem;
@@ -7,6 +9,14 @@ img {
 .navbar{
     background: rgb(248,255,158);
     background: linear-gradient(0deg, rgba(248,255,158,1) 0%, rgba(242,71,218,1) 100%);
+}
+
+/*formulario*/
+.formulario{
+    margin-left: 8rem;
+    margin-right: 45rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
 }
 /*footer*/
 .bg-dark img{
@@ -18,7 +28,3 @@ footer.page-footer.font-small.blue.pt-4 {
     background: linear-gradient(180deg, rgba(248,255,158,1) 0%, rgba(242,71,218,1) 100%);
 }
 
-.mb-3{
-    margin-right: 50rem;
-    padding-left: 3rem;
-}
