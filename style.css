@@ -12,10 +12,13 @@ img {
 .bg-dark img{
     width: 0.8rem
 }
-/*footer.page-footer.font-small.blue.pt-4 {
-    background-color: #ee7fcb;
-}*/
+
 footer.page-footer.font-small.blue.pt-4 {
     background: rgb(248,255,158);
     background: linear-gradient(180deg, rgba(248,255,158,1) 0%, rgba(242,71,218,1) 100%);
+}
+
+.mb-3{
+    margin-right: 50rem;
+    padding-left: 3rem;
 }
