@@ -26,10 +26,7 @@ div.noticia {
   div.reset {
     clear: both;
   }
- .tarjeta__video1{
-    /*  width:20rem;
-      height: 20rem;*/
-  }
+
   aside.aside-3 {
     display: flex;
     align-items: center;
